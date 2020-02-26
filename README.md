@@ -1,1 +1,2 @@
 # Natural-Language-Processing-with-Amazon-Comprehend
+Here is my final project for my master degree's Managing Big Data course. Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to discover insights from text. I presented the basic functions of Amazon Comprehend and utilized it to analyze Amazon reviews, which is a registry of open data source offered on AWS.
